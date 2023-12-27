@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/pdfviewer-factsheet/static/css/main.fb5cf303.css",
+    "main.js": "/pdfviewer-factsheet/static/js/main.d0c7d740.js",
+    "static/js/787.fed1c983.chunk.js": "/pdfviewer-factsheet/static/js/787.fed1c983.chunk.js",
+    "static/media/CoverPhotoByAtticus.jpg": "/pdfviewer-factsheet/static/media/CoverPhotoByAtticus.c84ceb91245ad63ed74f.jpg",
+    "pdf.worker.js": "/pdfviewer-factsheet/d6247b7eac59574c837f8a9ff1ba1917.js",
+    "static/media/ISWSLogo.PNG": "/pdfviewer-factsheet/static/media/ISWSLogo.00a81e228be154e48af9.PNG",
+    "index.html": "/pdfviewer-factsheet/index.html",
+    "main.fb5cf303.css.map": "/pdfviewer-factsheet/static/css/main.fb5cf303.css.map",
+    "main.d0c7d740.js.map": "/pdfviewer-factsheet/static/js/main.d0c7d740.js.map",
+    "787.fed1c983.chunk.js.map": "/pdfviewer-factsheet/static/js/787.fed1c983.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb5cf303.css",
+    "static/js/main.d0c7d740.js"
+  ]
+}
